@@ -1,4 +1,4 @@
-# IRON LITURGY
+# THE IRON LITURGY
 
 ### GENERATIVE INDUSTRIAL SOUND ENGINE
 
@@ -8,7 +8,7 @@
 
 > STEEL / PRESSURE / DISSONANCE / COLLAPSE
 
-IRON LITURGY is a standalone generative audio composition engineered in Sonic Pi using Ruby. Six concurrent synthesis loops construct an industrial sound environment from sub-bass oscillation, metallic impacts, dissonant harmonic structures, and probabilistic sonic events.
+THE IRON LITURGY is a standalone generative audio composition engineered in Sonic Pi using Ruby. Six concurrent synthesis loops construct an industrial sound environment from sub-bass oscillation, metallic impacts, dissonant harmonic structures, and probabilistic sonic events.
 
 The system transforms musical parameters into a continuously evolving composition. Rather than relying on prerecorded audio, it generates sound through programmable synthesis, rhythmic scheduling, and randomized event selection.
 
